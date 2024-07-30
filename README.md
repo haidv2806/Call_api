@@ -9,3 +9,9 @@ Open browser find "http://localhost:5173/"
 ## how to access to my own api
 Continue type "node api.js"
 Open browser find "http://localhost:3000/users"
+
+## guide in Vietnamese
+https://www.youtube.com/watch?v=F1M2LzbW_Og
+
+## guide in English
+https://www.youtube.com/watch?v=c0L8dTUQacQ
